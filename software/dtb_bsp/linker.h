@@ -4,7 +4,7 @@
  * Machine generated for CPU 'cpu' in SOPC Builder design 'dtb_system'
  * SOPC Builder design path: ../../dtb/dtb_system.sopcinfo
  *
- * Generated: Tue Dec 01 07:47:02 CET 2015
+ * Generated: Fri Oct 03 11:32:23 CEST 2025
  */
 
 /*
